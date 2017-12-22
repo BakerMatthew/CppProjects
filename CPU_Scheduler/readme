@@ -1,0 +1,9 @@
+To run the simulator there are three options:
+[1] Custom Simulation
+[2] Default Simulation
+[3] Exit Simulation
+
+OPTION [2] will auto set the parameters to some *default values.
+
+
+*If you wish to input your own parameters, choose OPTION [1] and follow the prompt.

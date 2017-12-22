@@ -1,0 +1,10 @@
+Steps to build and execute program:
+	make
+	./run
+
+In the program, step through the test cases by pressing 'enter'.
+
+Note: There will be warnings when building because of my test cases.
+	:
+	: For some reason, the compiler on my mac wouldn't allow me to build more than one file together.
+	: This is why all of my code is one .cpp file.
